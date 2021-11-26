@@ -9,3 +9,7 @@ strDst[i]=src[i];
 strDst[len]=NULL;
 return strDst;
 }
+
+/**
+远程edit
+**/
